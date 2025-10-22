@@ -1,4 +1,4 @@
-# Welcome to your project
+# Welcome to Open Trader
 
 ## Project info
 
